@@ -11,7 +11,7 @@ document.getElementById('submitBtn').addEventListener('click', function() {
   };
 
   // Send data to backend using Fetch API
-  fetch('https://cddpdhv549.execute-api.eu-west-2.amazonaws.com/prod/mylambdaendpoint', {
+  fetch('Your API Endpoint', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
