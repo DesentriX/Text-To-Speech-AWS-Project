@@ -1,4 +1,4 @@
-# Text-To-Speech-AWS-Project
+# Text-To-Speech-Project
 This is a simple text to speech converter using python, Html, CSS, Javascript and AWS cloud services
 
 # Programming Languages and technlogies used
