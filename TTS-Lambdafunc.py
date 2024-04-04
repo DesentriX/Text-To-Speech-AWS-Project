@@ -17,7 +17,7 @@ def lambda_handler(event, context):
 
         # Upload  the audio data to S3 bucket
         s3 = boto3.client('s3')
-        bucket_name = 'audios-21' 
+        bucket_name = 'your s3 bucket' 
         file_name = f"{context.aws_request_id}.mp3"  # Uses request ID as the file name
         s3.put_object(Bucket=bucket_name, Key=file_name, Body=response['AudioStream'].read())
 
@@ -28,7 +28,7 @@ def lambda_handler(event, context):
         time.sleep(2)
 
         # Get the origin from the request headers
-        origin = event.get('headers', {}).get('Origin', 'http://127.0.0.1:5500')
+        origin = event.get('headers', {}).get('Origin', 'your website origin e.g http://')
 
         # Set headers for CORS(Cross-origin resource sharing)
         headers = {
