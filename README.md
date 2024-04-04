@@ -29,6 +29,7 @@ The project started with creating an architecture using excalidraw for the diagr
 - learned how to implement front end and backend communication
 - Improved research skills
 - Improved cloud familiarity
+- Learned to use Postman API platform to externally test my API functionality
 
 
 # Improvements:
