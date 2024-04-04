@@ -38,6 +38,12 @@ The project started with creating an architecture using excalidraw for the diagr
 - Optimized performance, such as reducing the wait time after uploading to S3.
 
 
+# Demo Video
+- To showcase the program
+- https://streamable.com/o6q5am
+
+
+
 
   # Running the Project:
 - To run the project, clone the repository and ensure you have AWS credentials set up.
