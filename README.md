@@ -6,7 +6,7 @@ This is a simple text to speech converter using python, Html, CSS, Javascript an
 - CSS
 - Javascript
 - Python
-- Amazon Web services: Lambda, Polly, API Gateway
+- Backend: Amazon Web services: Lambda, Polly, API Gateway
 
 
 # Features
