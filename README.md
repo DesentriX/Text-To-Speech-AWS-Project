@@ -23,7 +23,7 @@ The project started with creating an architecture using excalidraw for the diagr
 
 # What I learned:
 - Gained familiarity with AWS services like Lambda, Polly, and S3.
-- Learned about CORS and how to configure it for cross-origin requests.
+- Learned about CORS(Cross-origin resource sharing) and how to configure it for cross-origin requests.
 - Improved debugging skills for frontend-backend communication.
 - Learned about API requests
 - learned how to implement front end and backend communication
